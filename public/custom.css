@@ -1,0 +1,13 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.remark-slide-content {
+  background-color: #caccc9;
+  position: relative;
+}
+
+h1 > code {
+  font-size: 2em;
+}
